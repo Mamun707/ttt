@@ -14,9 +14,9 @@ const HighLightsDetails = () => {
     <section className="movie-details-area" style={{backgroundImage:'url("../img/bg/movie_details_bg.jpg")'}}>
     <div className="container">
       <div className="row align-items-center position-relative">
-        <div className="col-xl-3 col-lg-4">
+        <div className="col-xl-8 col-lg-4">
           <div className="movie-details-img">
-            <img src="img/images/hdetails1.png" alt="" />
+            <img src="img/images/hdetails1.png" alt=""/>
             <a href="https://www.youtube.com/watch?v=R2gbPxeNk2E" className="popup-video"><img src="img/images/play_icon.png" alt="" /></a>
           </div>
         </div>
